@@ -1,3 +1,4 @@
 API_BASE = 'https://api.github.com'
 REPOS_PATH = 'search/repositories'
-QUERY_PARAMS = {'sort': 'stars', 'order': 'desc', 'per_page': 20}
+REPOS_ISSUES_PATH = 'search/repositories'
+OUTPUT_TABLE_WIDTH = 116
